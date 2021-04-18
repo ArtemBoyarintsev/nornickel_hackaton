@@ -1,1 +1,2 @@
 Модели могут бы найдены тут:https://drive.google.com/drive/folders/17DH0idOcSe5U7EDb4hIFsqNhfeRYPkrY
+Файл - model_weights_0.5000_0.9126.save
